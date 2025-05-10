@@ -1,0 +1,211 @@
+15
+I main FUNCTION
+I counter INT
+I status BOOL
+I name STRING
+S
+I index INT
+I rate DOUBLE
+I valid BOOL
+I message STRING
+I count LONG
+S
+I subTotal FLOAT
+I errorCode INT
+I isLive BOOL
+I description STRING
+I maxValue LONG
+I minValue INT
+I average DOUBLE
+E
+I total DOUBLE
+I flag BOOL
+I position INT
+I label STRING
+E
+I data ARRAY
+I size INT
+I capacity LONG
+I isEmpty BOOL
+S
+I firstName STRING
+I lastName STRING
+I age INT
+I height FLOAT
+I weight DOUBLE
+I isStudent BOOL
+S
+I courseId INT
+I courseName STRING
+I credits FLOAT
+I isPassed BOOL
+I grade CHAR
+I score DOUBLE
+E
+I address STRING
+I city STRING
+I zipCode INT
+I isLocal BOOL
+E
+I result BOOL
+I value INT
+I text STRING
+S
+I length LONG
+I width DOUBLE
+I height FLOAT
+I volume DOUBLE
+I area FLOAT
+S
+I color STRING
+I opacity FLOAT
+I visible BOOL
+I zIndex INT
+I priority LONG
+E
+I radius DOUBLE
+I diameter FLOAT
+I circumference DOUBLE
+E
+I isValid BOOL
+I code INT
+I message STRING
+I timestamp LONG
+S
+I username STRING
+I password STRING
+I isAdmin BOOL
+I loginCount INT
+I lastLogin LONG
+S
+I permission STRING
+I level INT
+I isGranted BOOL
+I expiry LONG
+I scope STRING
+E
+I sessionId STRING
+I timeout INT
+I active BOOL
+E
+I response STRING
+I status INT
+I success BOOL
+S
+I header STRING
+I body STRING
+I footer STRING
+I format INT
+I encoding STRING
+S
+I compression BOOL
+I algorithm STRING
+I ratio DOUBLE
+I quality INT
+I speed FLOAT
+E
+I signature STRING
+I checksum LONG
+E
+I config OBJECT
+I mode INT
+I debug BOOL
+S
+I logLevel INT
+I logFile STRING
+I maxSize LONG
+I rotate BOOL
+I format STRING
+S
+I timestamp BOOL
+I verbose BOOL
+I silent BOOL
+I colorize BOOL
+I lineNumbers INT
+E
+I console BOOL
+I remote BOOL
+E
+I version STRING
+I build INT
+I compatible BOOL
+S
+I minVersion STRING
+I maxVersion STRING
+I recommended BOOL
+I deprecated BOOL
+I critical BOOL
+S
+I notification STRING
+I warning BOOL
+I error INT
+I info STRING
+I hint BOOL
+E
+I supported BOOL
+I tested BOOL
+E
+I connection OBJECT
+I url STRING
+I port INT
+I secure BOOL
+S
+I protocol STRING
+I domain STRING
+I path STRING
+I query BOOL
+I fragment STRING
+S
+I parameter STRING
+I value OBJECT
+I required BOOL
+I defaultValue STRING
+I type INT
+E
+I timeout INT
+I retry BOOL
+E
+I buffer ARRAY
+I temporary BOOL
+I permanent BOOL
+S
+I location STRING
+I size LONG
+I used DOUBLE
+I free FLOAT
+I capacity INT
+S
+I threshold FLOAT
+I warning DOUBLE
+I critical INT
+I normal BOOL
+I status STRING
+E
+I expandable BOOL
+I shrinkable BOOL
+E
+I settings OBJECT
+I display OBJECT
+I profile STRING
+I theme INT
+I language STRING
+S
+I font STRING
+I fontSize INT
+I bold BOOL
+I italic BOOL
+I underline BOOL
+S
+I color STRING
+I background INT
+I foreground INT
+I transparency FLOAT
+I brightness DOUBLE
+E
+I alignment INT
+I spacing FLOAT
+E
+I initialized BOOL
+I ready STRING
+I complete INT
+Q
